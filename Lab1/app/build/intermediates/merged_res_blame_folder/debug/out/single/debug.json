@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit5.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit5.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.lab1.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.lab1.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit10.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit10.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit0.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit0.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit9.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit9.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/font_regular.ttf.flat",
+        "source": "com.example.lab1.app-main-7:/font/regular.ttf"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit7.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit7.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit2.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit2.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/layout_start_activity.xml.flat",
+        "source": "com.example.lab1.app-main-7:/layout/start_activity.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_close.jpg.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/close.jpg"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit4.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit4.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit6.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit6.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.lab1.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_custom_border.xml.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/custom_border.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.lab1.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab1.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit1.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit1.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_custom_border1.xml.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/custom_border1.xml"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit3.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit3.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_none.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/none.png"
+    },
+    {
+        "merged": "com.example.lab1.app-merged_res-5:/drawable_fruit8.png.flat",
+        "source": "com.example.lab1.app-main-7:/drawable/fruit8.png"
+    }
+]
